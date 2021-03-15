@@ -1,0 +1,18 @@
+img carousel {
+    width:100%;
+}
+
+
+.carouselleftarrow {
+    font-family: Material Icons;
+    position: absolute;
+    bottom: 5px;
+    content: "\e408";
+}
+
+.carouselrightarrow {
+    font-family: Material Icons;
+    position: absolute;
+    bottom: 5px;
+    content: "\e409";
+}
